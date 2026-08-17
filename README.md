@@ -2,6 +2,11 @@
 
 Starter for the **"Build Apple Store's product launch queue"** project at DayZer0.
 
+## Prerequisites
+
+- Go 1.22+
+- Docker / Docker Compose (for Redis)
+
 ## Get started
 
 ```bash
